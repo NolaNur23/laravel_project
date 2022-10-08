@@ -1,0 +1,14 @@
+$.ajax({
+                url: "",
+                type: ,
+                data: {}
+            }).done(function(result) {
+
+            }).fail(function(xhr, error) {
+
+            }) {}
+
+
+//php artisan optimize -> 404
+eror 500->controller.
+cek import
